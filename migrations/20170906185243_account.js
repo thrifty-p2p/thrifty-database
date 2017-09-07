@@ -7,9 +7,9 @@ exports.up = (knex, Promise) => {
     table.text('email').notNullable();
     table.text('password').notNullable();
     table.integer('total_sales');
-    table.timestamp('date_created').default(knex.fn.now());
     table.text('address').nullable();
     table.integer('location_id').unsigned().references('id').inTable('location').onDelete('cascade');
+    table.timestamp('date_created').default(knex.fn.now());
   });
 };
 

@@ -1,0 +1,513 @@
+[{
+  "first_name": "Jacob",
+  "last_name": "Feldman",
+  "email": "jacob.h.feldman@gmail.com",
+  "password": "$2a$10$EeNXweu8EtTrYLShgoqLEONevxhnRb5nCpjnJ9gX5c7cSR.iKv6ry",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Alex",
+  "last_name": "Read",
+  "email": "alexread730@gmail.com",
+  "password": "$2a$10$bXv9o5ct3GFelJWcjEl7Lu0jhIC1eiF9zbwKck.k6VdES/OPAbjKG",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Will",
+  "last_name": "Carpenter",
+  "email": "willcarpenteriii@gmail.com",
+  "password": "$2a$10$By3fCCgBiMk8lBUa9s9HoOb6GB5vqKgNtNUiRpkSFRBOzSyh4WH.u",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Sean ",
+  "last_name": "McLimans",
+  "email": "seanmclimans@gmail.com",
+  "password": "$2a$10$.7AOgHwgrqCHm/Z2aN.4Tu/jDr0arg.lzgXRtGdjw1kgbQzZb6y.q",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Cass",
+  "last_name": "Torske",
+  "email": "tors2720@gmail.com",
+  "password": "$2a$10$.BSgrFbkjvfu.q56oI7dtOZ5XXAcJ2mQvu.VKri6G358E6xetB7fK",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "CJ",
+  "last_name": "Reynolds",
+  "email": "cj.reynolds@galvanize.com",
+  "password": "$2a$10$dOu.ytt5KI8F8Gvj7GC3euwdiQIZ8DpqrmK6koiauQuAf/s8Szdq6",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Riley",
+  "last_name": "Connerley",
+  "email": "rileyconnerley@yahoo.com",
+  "password": "$2a$10$xbK3gljHl7C2kSj.K6b3lOzHiR/rqQNIJTLACSO6Q5.wn2hTRwBjK",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Adam",
+  "last_name": "Miner",
+  "email": "miner.adam1@hotmail.com",
+  "password": "$2a$10$DLM7jHOzBiWSMm5umxb2Xe6FPLG9efkYQqlkoIrGaO/KbX8.KjX3i",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Andrew",
+  "last_name": "Alvarez",
+  "email": "alvarezandrewa@gmail.com",
+  "password": "$2a$10$2YJ.dHddousOMTfuDSyqH.IuhVHbfnGB2vAPCmD72r5Y7yB2jw01G",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Andrew",
+  "last_name": "Eskenazi",
+  "email": "drewesk@gmail.com",
+  "password": "$2a$10$Fo2qRT6nGrVAWWsktB1UqOlGpqyM2jXYaphOu9Ywo27m8t9RKoP5O",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Austin",
+  "last_name": "Johnston",
+  "email": "joha0033@gmail.com",
+  "password": "$2a$10$21mAU9atZcX835r5sXSOBuRRj62.8FPt4ra5avoCDziOHDHKDaMVG",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Caroline",
+  "last_name": "O'Donnell",
+  "email": "caroline.odonnell26@gmail.com",
+  "password": "$2a$10$XLwD06l.v5/JX89Bw6H/TeSet8eQu7SGV.1Pjt62UbBmczTwOToky",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Chase",
+  "last_name": "Hemerda",
+  "email": "chasehemerda@gmail.com",
+  "password": "$2a$10$BizyykBKYCqFNx4sgJtuM.UpbNU2SxudBVI9Mj6Zi.z08OKQ1OtRu",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Fahad",
+  "last_name": "Haidari",
+  "email": "fahad.haidari@gmail.com",
+  "password": "$2a$10$a0UhwCcwBBByvs.bGCWm9.ptejdPwSADS1lbIDCeVK9nOOqakvO9O",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Jason",
+  "last_name": "Clifton",
+  "email": "j.clifton1473@gmail.com",
+  "password": "$2a$10$ReTpGWclxVG6kacdmawBLe7kgvdcnDaN6DpGvbbuhsphiqNGd.Apm",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Marlena",
+  "last_name": "Baker",
+  "email": "baker.marlena@gmail.com",
+  "password": "$2a$10$/wudn8ZVhW.QrSD.EndlXuEz6bm05z8SJ1MfNR1PMeeLJwKrBRer2",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Matt",
+  "last_name": "Pitts",
+  "email": "mattpittsmusic@gmail.com",
+  "password": "$2a$10$uyWRjnk41k2kw2NLTWtujOlLe3Yh20F.tEeLfjmaDEM9I912Qgo2y",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Matthew",
+  "last_name": "Gonzer",
+  "email": "matthewgonzer@gmail.com",
+  "password": "$2a$10$pPnEs8uC.H3mQTxcqW3oVOpkgPmZNJiEGpB4ggbM0Yr5WIO1CtUDy",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Matthew",
+  "last_name": "Victor",
+  "email": "vicmcnabby@gmail.com",
+  "password": "$2a$10$hmuDEC22u4zniOfDS2YYUObhHILQOeYOB7n2jF1HgZfV0o8Bny1di",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Michael",
+  "last_name": "Balagna",
+  "email": "lunchmeat13@gmail.com",
+  "password": "$2a$10$mmWIfWEmNjwYwzZVPBJCTum0zVMn4Cp5Gxy5w.SeGHUE/tizOfAP6",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Robert",
+  "last_name": "Puls",
+  "email": "rpu1s@sbcglobal.net",
+  "password": "$2a$10$3TzkUJGrHsNqcqh6qVMQf.FYekEM6jPFKBCWEbxw3Cy5ItOv/pHau",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Ross",
+  "last_name": "Kiser",
+  "email": "kiserr10@gmail.com",
+  "password": "$2a$10$ysyiajZ1ieNZwKQYhudTF.PykXbvI/eqZlhQIKpnLFnNUwlbx2dBG",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Stephen",
+  "last_name": "Warton",
+  "email": "stephen.warton@gmail.com",
+  "password": "$2a$10$SuTJhPi765nLPFBQh72hUuDICpGiCp4Js9IrwvGaaAL.XvuNZFZVC",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Will",
+  "last_name": "Meier",
+  "email": "willmeierart@gmail.com",
+  "password": "$2a$10$6ppnhvPT.WvxgaqYw7zF4..FjxEUVZCu3biG22doCkTk65vUiAl.S",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Bartholomew",
+  "last_name": "Ockwell",
+  "email": "bockwell0@multiply.com",
+  "password": "$2a$10$Y/fmFATIYKWhS/6MNi4SqOkRSLoKKZ0RHHTIiVd7r4t99X4atmgOW",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Blondie",
+  "last_name": "Meegan",
+  "email": "bmeegan1@amazon.com",
+  "password": "$2a$10$SpdajPR1duVpQoNdtjo9POWWpPJTo34tL0uRxSBKxE8bA6LU1XIdK",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Berget",
+  "last_name": "Drummond",
+  "email": "bdrummond2@wp.com",
+  "password": "$2a$10$i9s/YGkGzU.vRKVTe/r72uNI73O9CclT.k8n08WBZk4N/r.fnHIB2",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Carlen",
+  "last_name": "Disley",
+  "email": "cdisley3@abc.net.au",
+  "password": "$2a$10$r9YgbdPuwDP4StZ1j9LyV.kIeh.DLOTuV/c3RbTIMqB9UGvPIF3pO",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Bamby",
+  "last_name": "Camerello",
+  "email": "bcamerello4@trellian.com",
+  "password": "$2a$10$0gAVxAXRWjcuVWbMCtARdeQZfeIN2lWv44EcJA5.9zP5noog/ViCi",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Lindon",
+  "last_name": "Skarin",
+  "email": "lskarin5@yellowbook.com",
+  "password": "$2a$10$fqFSynBGY0m6H1kO6mwMRuTI.p90kJ55lNXAnh5Uvz.Vj/4gZsagO",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Thain",
+  "last_name": "Sancraft",
+  "email": "tsancraft6@comcast.net",
+  "password": "$2a$10$DJ4ON53BfThubCeqC0r2zevYR6GrNtnCp.6ceftso5npMpx5jANtK",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Phelia",
+  "last_name": "Beams",
+  "email": "pbeams7@gravatar.com",
+  "password": "$2a$10$p8OYStKTCdM5f50MtkD7T./7RBfdV1ze5wlg1r5wYkk.uSipP3w1q",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Anselma",
+  "last_name": "Donnell",
+  "email": "adonnell8@house.gov",
+  "password": "$2a$10$PTJxmIrKkEPCnqxxyFaNsuYwjpVO6c9IHkBVWcHE6WbTIg218lHRa",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Rand",
+  "last_name": "Wincer",
+  "email": "rwincer9@china.com.cn",
+  "password": "$2a$10$SFv2NhZGR/9nPjYap/vAqugBJ73wVqKZl3SbdvEfO/R/BwIwNX69e",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Raimundo",
+  "last_name": "Claire",
+  "email": "rclairea@fc2.com",
+  "password": "$2a$10$qOhaTHf3rsH0QDHvc/L66OeVnaFmby/r/ZfV8Zx3wMVpZcli.NaHy",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Tamara",
+  "last_name": "Garey",
+  "email": "tgareyb@springer.com",
+  "password": "$2a$10$yW9l2yuc1mfW4MS3aEPOYOt0Z5J.xoR.RtXsnwBCpKoF4xSlPq3PK",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Denny",
+  "last_name": "Hanlon",
+  "email": "dhanlonc@nytimes.com",
+  "password": "$2a$10$FqLGh7XXY3Ow/TEm8vnVPOs6pPzcsz0szebx8v0CTZu2evspBidG6",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Norry",
+  "last_name": "Minogue",
+  "email": "nminogued@about.com",
+  "password": "$2a$10$fTNuTwKBgmKkwVTahQ0H4eOYZ7ytBEgsOK9P9W6Ty2V5TizTB/7uG",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Giffard",
+  "last_name": "Ghione",
+  "email": "gghionee@theglobeandmail.com",
+  "password": "$2a$10$O3XUdtImouJe0pllSYl9DuSyCKR5FL1Nb3z3QiM/zzXboZvu/fNIS",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Andrei",
+  "last_name": "Leedal",
+  "email": "aleedalf@alexa.com",
+  "password": "$2a$10$7EXzdxF7ibUGRwfblwOGVOEdoQ2y1gNqpns9I75xVWxbFBIGwp8jK",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Reinwald",
+  "last_name": "Britney",
+  "email": "rbritneyg@ycombinator.com",
+  "password": "$2a$10$mfIGU5fTddK/hlbTZeEixOaydkPpSPLcOe6aRDoKDZnxTDa3U6QaS",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Hal",
+  "last_name": "Metts",
+  "email": "hmettsh@google.fr",
+  "password": "$2a$10$wVts06uBrBfZQ8.Le51HwewPfX.g152noIOP9Vnzs/rn.4mAwabPm",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Andrea",
+  "last_name": "Hourahan",
+  "email": "ahourahani@noaa.gov",
+  "password": "$2a$10$PejcHxpZGSPlZlRylud/F.jmDnvwiUhXhoBFhe1I58110oC0P5aLC",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Lyndsey",
+  "last_name": "Radclyffe",
+  "email": "lradclyffej@scientificamerican.com",
+  "password": "$2a$10$YeucnDnJhaiM7k61NCI.xuyUeKN4rjh2zwON5pGWjn51byQzPtA5S",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Misti",
+  "last_name": "Billows",
+  "email": "mbillowsk@earthlink.net",
+  "password": "$2a$10$jCvSbyfnf0Vu4klg9pCHT.pBw/xYhiODL7pu9VAN9hJb0YGKlPCVe",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Ilario",
+  "last_name": "Scholfield",
+  "email": "ischolfieldl@t.co",
+  "password": "$2a$10$7Z32vymdxkEHjOFH0UGmlOO2Pyu8Y7xazUxDVP3LPD5VuDxT0EmZC",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Bendix",
+  "last_name": "Castelletti",
+  "email": "bcastellettim@dion.ne.jp",
+  "password": "$2a$10$dOdVrlKRKuNGVbdbzrWRoOxtv6K3UkQBfbk7s03sK5v5yziedDEBq",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Melvyn",
+  "last_name": "Symonds",
+  "email": "msymondsn@cbsnews.com",
+  "password": "$2a$10$yEjfrlisEl3mkXbibyM2BuBDd0WN1DY3escJxBdoZRZ4gEvwVsdy6",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Ashia",
+  "last_name": "Pearle",
+  "email": "apearleo@state.tx.us",
+  "password": "$2a$10$AvKaLp/sLZucDKmLQxZYw.J/yJN7mEnEXfJ/2zEovzPoEv0yxIML2",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Ali",
+  "last_name": "Liveley",
+  "email": "aliveleyp@wix.com",
+  "password": "$2a$10$AENrAOodSKjOQo4wkuK.Oe.yO2kai0ik9fgeEFDRVyP1CkLKuVJw6",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Moshe",
+  "last_name": "Northgraves",
+  "email": "mnorthgravesq@google.cn",
+  "password": "$2a$10$pHPwWLNwwDhIAZn/U8g6o.mF4BWS2AFV601U/JPsS7D7M5qWHygkK",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Grenville",
+  "last_name": "Chaudron",
+  "email": "gchaudronr@netvibes.com",
+  "password": "$2a$10$Qe5YarJiPciL0dIzVqEBGecI1hewogI0Kxp/cFZQw4HSSv8UCC2.m",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Talia",
+  "last_name": "Roussel",
+  "email": "troussels@tiny.cc",
+  "password": "$2a$10$vWfkbSF2.uV07YP7rI5UvO082QuvBnIQq7DorSMHVeXEzO12vcIuO",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Abbe",
+  "last_name": "Bonar",
+  "email": "abonart@businessinsider.com",
+  "password": "$2a$10$rk4PfHal5KSmvvDsLLxfVuLcl39ph4GPgkJYYiTmqVXZf39wWNnpa",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Bianka",
+  "last_name": "Foucar",
+  "email": "bfoucaru@fc2.com",
+  "password": "$2a$10$CBmtEDb8lSKvX1V6dlaRn.zp0wDQByEcti/gGFovAujooXOoPV.Hq",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Sondra",
+  "last_name": "Mulran",
+  "email": "smulranv@zdnet.com",
+  "password": "$2a$10$Ts6JMB8kvK9qzMvyD5HnpegBRJkt9o1gAonQ93Ad7GZ1f3FLhI1Re",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Myra",
+  "last_name": "Rummery",
+  "email": "mrummeryw@pbs.org",
+  "password": "$2a$10$CuzssEj8k35pIdj0o1W00..XIpMqXhczE4oldXiDoNhfjAf1pmqPa",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Tyson",
+  "last_name": "Cardoo",
+  "email": "tcardoox@trellian.com",
+  "password": "$2a$10$mW6DYDkpABhTN5reVINcO.Z0STAPg37q0.Eo0kgUCiCAcaH3Ab6h.",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Zach",
+  "last_name": "Beverage",
+  "email": "zbeveragey@dropbox.com",
+  "password": "$2a$10$jWGrbCrpCqq98Z44RYuIz.hOD2eMp1YIm6aecHuHaS23ewMLdfvvu",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Misty",
+  "last_name": "Vannini",
+  "email": "mvanniniz@simplemachines.org",
+  "password": "$2a$10$xrQVg/jHXhWGIRjo46rfeORqgpmP.bdud.0AuUUTnzOHMlHJLkV.6",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}, {
+  "first_name": "Dorise",
+  "last_name": "Pickerin",
+  "email": "dpickerin10@domainmarket.com",
+  "password": "$2a$10$/xk7b/yRaGFiotFedQLnTOHzukhdJhbdICD9rYsAO4JQO9APLxI.u",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "1"
+}, {
+  "first_name": "Rabi",
+  "last_name": "Renvoise",
+  "email": "rrenvoise11@dropbox.com",
+  "password": "$2a$10$D4FyVmVglIgZXN24SwX5nea30ZYKodVvp1bFCSN4I6hjWYQNUjMUS",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "2"
+}, {
+  "first_name": "Brina",
+  "last_name": "Pavis",
+  "email": "bpavis12@hexun.com",
+  "password": "$2a$10$QcYud6NSIpDvNB7xYwA.T.s3RsFE1RZWV1vMv4StjnHJDUDfoBo/S",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "3"
+}, {
+  "first_name": "Cammy",
+  "last_name": "Humphris",
+  "email": "chumphris13@people.com.cn",
+  "password": "$2a$10$2LHVZMP6Qtu4RjynKqPDJu/o95LvNEMjnJ12rM0UpgX55PQOAmkQa",
+  "total_sales": "0",
+  "address": "123 Street Apt 1 ",
+  "location_id": "4"
+}]

@@ -6,5 +6,5 @@ exports.up = (knex, Promise) => {
 };
 
 exports.down = (knex, Promise) => {
-  return knex.schema.createTable('category');
+  return knex.schema.dropTableIfExists('category');
 };

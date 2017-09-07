@@ -9,5 +9,5 @@ exports.up = (knex, Promise) => {
 };
 
 exports.down = (knex, Promise) => {
-  return knex.schema.createTable('message_product');
+  return knex.schema.dropTableIfExists('message_product');
 };

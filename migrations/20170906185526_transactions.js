@@ -8,5 +8,5 @@ exports.up = (knex, Promise) => {
 };
 
 exports.down = (knex, Promise) => {
-  return knex.schema.createTable('transaction');
+  return knex.schema.dropTableIfExists('transaction');
 };

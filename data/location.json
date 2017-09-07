@@ -1,0 +1,17 @@
+[{
+  "city": "Denver",
+  "state": "CO",
+  "zip_code": "80020"
+}, {
+  "city": "Cheyenne",
+  "state": "WY",
+  "zip_code": "82009"
+}, {
+  "city": "Northglenn",
+  "state": "CO",
+  "zip_code": "80233"
+}, {
+  "city": "Tampa",
+  "state": "FL",
+  "zip_code": "33603"
+}]

@@ -4,7 +4,7 @@ exports.up = (knex, Promise) => {
     table.increments('id').primary();
     table.text('city').notNullable();
     table.text('state').notNullable();
-    table.integer('zip').notNullable();
+    table.integer('zip_code').notNullable();
   });
 };
 
