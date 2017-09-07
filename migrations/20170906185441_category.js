@@ -1,8 +1,10 @@
-
-exports.up = function(knex, Promise) {
-  
+exports.up = (knex, Promise) => {
+  return knex.schema.createTable('category', table => {
+    table.increments('id').primary();
+    table.text('name').notNullable();
+  });
 };
 
-exports.down = function(knex, Promise) {
-  
+exports.down = (knex, Promise) => {
+  return knex.schema.createTable('category');
 };
