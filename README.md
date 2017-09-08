@@ -18,7 +18,6 @@ createdb thrifty
 knex migrate:latest
 
 knex seed:run
-
 ```
 
 ## Deployment
