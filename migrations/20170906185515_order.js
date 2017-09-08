@@ -3,7 +3,8 @@ exports.up = (knex, Promise) => {
     table.increments('id').primary();
     table.dateTime('order_date').notNullable();
     table.boolean('is_complete').defaultTo(false);
-    table.integer('buyer_id').unsigned().references('id').inTable('product').onDelete('cascade');
+    table.integer('buyer_id').unsigned().references('id').inTable('account').onDelete('cascade');
+    table.integer('product_id').unsigned().references('id').inTable('product').onDelete('cascade');
   });
 };
 
