@@ -6,6 +6,8 @@ This repository contains the database schema, migrations, and seeds for Thrifty 
 
 To get started run the following commands from your terminal.
 
+Please note this setup is for a PostgreSQL database.
+
 ```
 git clone git@github.com:thrifty-p2p/thrifty-database.git
 
