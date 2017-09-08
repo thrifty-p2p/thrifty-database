@@ -20,9 +20,10 @@ knex migrate:latest
 knex seed:run
 ```
 
-## Deployment
+## Related Repositiries
 
-* n/a
+* [Server](https://github.com/thrifty-p2p/thrifty-server)
+* [React Native Client](https://github.com/thrifty-p2p/thrifty-client)
 
 ## Built With
 
