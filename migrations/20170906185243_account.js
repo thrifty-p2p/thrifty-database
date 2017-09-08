@@ -4,12 +4,16 @@ exports.up = (knex, Promise) => {
     table.increments('id').primary();
     table.text('first_name').notNullable();
     table.text('last_name').notNullable();
-    table.text('email').notNullable();
+    table.text('email').notNullable().unique();
+    table.text('username').notNullable().unique();
     table.text('password').notNullable();
-    table.integer('total_sales');
-    table.text('address').nullable();
-    table.integer('location_id').unsigned().references('id').inTable('location').onDelete('cascade');
+    table.text('profile_image_url');
+    table.integer('total_sales').defaultTo(0);
+    table.integer('total_purchases').defaultTo(0);
     table.timestamp('date_created').default(knex.fn.now());
+    table.boolean('admin').notNullable().defaultTo(false);
+    table.text('address');
+    table.integer('location_id').unsigned().references('id').inTable('location').onDelete('cascade');
   });
 };
 
