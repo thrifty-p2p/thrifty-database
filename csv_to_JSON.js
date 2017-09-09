@@ -10,6 +10,7 @@ fs.readFile('./data_csv/account_table.csv', (error, data) => {
       const account = {
         first_name: row[0],
         last_name: row[1],
+        username: (row[0].split("").shift() + row[1]).toLowerCase(),
         email: row[2],
         password: bcrypt.hashSync(row[3], 10),
         total_sales: row[4],
@@ -18,7 +19,7 @@ fs.readFile('./data_csv/account_table.csv', (error, data) => {
       }
       allAccounts.push(account);
     }
-    fs.writeFile('./data_json/account.json', JSON.stringify(allAccounts), error => {
+    fs.writeFile('./data/account.json', JSON.stringify(allAccounts), error => {
       console.log("account.json created");
     });
   });
@@ -34,7 +35,7 @@ fs.readFile('./data_csv/category_table.csv', (error, data) => {
       }
       allCategories.push(categories);
     }
-    fs.writeFile('./data_json/category.json', JSON.stringify(allCategories), error => {
+    fs.writeFile('./data/category.json', JSON.stringify(allCategories), error => {
       console.log("category.json created");
     });
   });
@@ -51,7 +52,7 @@ fs.readFile('./data_csv/image_table.csv', (error, data) => {
       }
       allImages.push(image);
     }
-    fs.writeFile('./data_json/image.json', JSON.stringify(allImages), error => {
+    fs.writeFile('./data/image.json', JSON.stringify(allImages), error => {
       console.log("image.json created");
     });
   });
@@ -69,7 +70,7 @@ fs.readFile('./data_csv/location_table.csv', (error, data) => {
       }
       allLocations.push(location);
     }
-    fs.writeFile('./data_json/location.json', JSON.stringify(allLocations), error => {
+    fs.writeFile('./data/location.json', JSON.stringify(allLocations), error => {
       console.log("location.json created");
     });
   });
@@ -86,7 +87,7 @@ fs.readFile('./data_csv/product_category_table.csv', (error, data) => {
       }
       allProdCats.push(prodCat);
     }
-    fs.writeFile('./data_json/product_category.json', JSON.stringify(allProdCats), error => {
+    fs.writeFile('./data/product_category.json', JSON.stringify(allProdCats), error => {
       console.log("product_category.json created");
     });
   });
@@ -106,7 +107,7 @@ fs.readFile('./data_csv/product_table.csv', (error, data) => {
       }
       allProducts.push(product);
     }
-    fs.writeFile('./data_json/product.json', JSON.stringify(allProducts), error => {
+    fs.writeFile('./data/product.json', JSON.stringify(allProducts), error => {
       console.log("product.json created");
     });
   });
