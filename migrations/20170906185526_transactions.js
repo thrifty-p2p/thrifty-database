@@ -3,7 +3,7 @@ exports.up = (knex, Promise) => {
     table.increments('id').primary();
     table.timestamp('created_at').default(knex.fn.now());
     table.text('stripe_transaction_id');
-    table.integer('order_id').unsigned().references('id').inTable('order').onDelete('cascade');
+    table.integer('order_id').unsigned().references('id').inTable('store_order').onDelete('cascade');
   });
 };
 

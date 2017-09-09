@@ -112,3 +112,56 @@ fs.readFile('./data_csv/product_table.csv', (error, data) => {
     });
   });
 });
+
+fs.readFile('./data_csv/order_table.csv', (error, data) => {
+  csv.parse(data, (error, data) => {
+    let allOrders = [];
+    for (var i = 1; i < data.length; i++) {
+      const row = data[i];
+      const order = {
+        is_complete: row[1],
+        buyer_id: row[2],
+        product_id: row[3]
+      }
+      allOrders.push(order);
+    }
+    fs.writeFile('./data/order.json', JSON.stringify(allOrders), error => {
+      console.log("order.json created");
+    });
+  });
+});
+
+fs.readFile('./data_csv/transaction_table.csv', (error, data) => {
+  csv.parse(data, (error, data) => {
+    let allTransactions = [];
+    for (var i = 1; i < data.length; i++) {
+      const row = data[i];
+      const transaction = {
+        strip_id: row[0],
+        order_id: row[1]
+      }
+      allTransactions.push(transaction);
+    }
+    fs.writeFile('./data/transaction.json', JSON.stringify(allTransactions), error => {
+      console.log("transaction.json created");
+    });
+  });
+});
+
+fs.readFile('./data_csv/product_comment_table.csv', (error, data) => {
+  csv.parse(data, (error, data) => {
+    let allComments = [];
+    for (var i = 1; i < data.length; i++) {
+      const row = data[i];
+      const product_comment = {
+        comment: row[0],
+        product_id: row[1],
+        account_id: row[2]
+      }
+      allComments.push(product_comment);
+    }
+    fs.writeFile('./data/product_comment.json', JSON.stringify(allComments), error => {
+      console.log("product_comment.json created");
+    });
+  });
+});

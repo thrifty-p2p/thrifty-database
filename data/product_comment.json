@@ -1,0 +1,13 @@
+[{
+  "comment": "Why is the price so low?",
+  "product_id": "1",
+  "account_id": "10"
+}, {
+  "comment": "Love this Taylor!",
+  "product_id": "2",
+  "account_id": "25"
+}, {
+  "comment": "Are these belt or direct drive?",
+  "product_id": "3",
+  "account_id": "14"
+}]

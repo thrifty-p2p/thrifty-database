@@ -1,0 +1,4 @@
+id,is_complete,buyer_id,product_id
+1,TRUE,10,8
+2,TRUE,12,9
+3,TRUE,13,10
