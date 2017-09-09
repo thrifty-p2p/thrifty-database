@@ -12,10 +12,7 @@ fs.readFile('./data_csv/account_table.csv', (error, data) => {
         last_name: row[1],
         username: (row[0].split("").shift() + row[1]).toLowerCase(),
         email: row[2],
-        password: bcrypt.hashSync(row[3], 10),
-        total_sales: row[4],
-        address: row[5],
-        location_id: row[6]
+        password: bcrypt.hashSync(row[3], 10)
       }
       allAccounts.push(account);
     }
@@ -162,6 +159,25 @@ fs.readFile('./data_csv/product_comment_table.csv', (error, data) => {
     }
     fs.writeFile('./data/product_comment.json', JSON.stringify(allComments), error => {
       console.log("product_comment.json created");
+    });
+  });
+});
+
+
+fs.readFile('./data_csv/account_address_table.csv', (error, data) => {
+  csv.parse(data, (error, data) => {
+    let allAddress = [];
+    for (var i = 1; i < data.length; i++) {
+      const row = data[i];
+      const account_address = {
+        address: row[0] + ' ' + row[1],
+        location_id: row[2],
+        account_id: row[3]
+      }
+      allAddress.push(account_address);
+    }
+    fs.writeFile('./data/account_address.json', JSON.stringify(allAddress), error => {
+      console.log("account_address.json created");
     });
   });
 });

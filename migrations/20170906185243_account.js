@@ -12,8 +12,6 @@ exports.up = (knex, Promise) => {
     table.integer('total_purchases').defaultTo(0);
     table.timestamp('date_created').default(knex.fn.now());
     table.boolean('admin').notNullable().defaultTo(false);
-    table.text('address');
-    table.integer('location_id').unsigned().references('id').inTable('location').onDelete('cascade');
   });
 };
 

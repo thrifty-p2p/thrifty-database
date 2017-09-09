@@ -1,0 +1,13 @@
+[{
+  "is_complete": "TRUE",
+  "buyer_id": "10",
+  "product_id": "8"
+}, {
+  "is_complete": "TRUE",
+  "buyer_id": "12",
+  "product_id": "9"
+}, {
+  "is_complete": "TRUE",
+  "buyer_id": "13",
+  "product_id": "10"
+}]
