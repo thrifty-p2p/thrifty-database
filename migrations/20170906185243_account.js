@@ -7,7 +7,7 @@ exports.up = (knex, Promise) => {
     table.text('email').notNullable().unique();
     table.text('username').notNullable().unique();
     table.text('password').notNullable();
-    table.text('profile_image_url').defaultTo('https://s3.us-east-2.amazonaws.com/thrifty-p2p/thrifty_default_profile.jpg');
+    table.text('profile_image_url').defaultTo('https://s3.us-east-2.amazonaws.com/thrifty-p2p/thrifty_default_profile.png');
     table.integer('total_sales').defaultTo(0);
     table.integer('total_purchases').defaultTo(0);
     table.timestamp('date_created').default(knex.fn.now());
