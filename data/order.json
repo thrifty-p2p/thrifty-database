@@ -2,15 +2,15 @@
   "is_complete": "TRUE",
   "buyer_id": "10",
   "product_id": "8",
-  "stripe_transaction_id": "Thrifty_1505849809184"
+  "transaction_id": "Thrifty_1505849809184"
 }, {
   "is_complete": "TRUE",
   "buyer_id": "12",
   "product_id": "9",
-  "stripe_transaction_id": "Thrifty_1505849809184"
+  "transaction_id": "Thrifty_1505849809184"
 }, {
   "is_complete": "TRUE",
   "buyer_id": "13",
   "product_id": "10",
-  "stripe_transaction_id": "Thrifty_1505849809184"
+  "transaction_id": "Thrifty_1505849809184"
 }]

@@ -5,7 +5,7 @@ exports.up = (knex, Promise) => {
     table.boolean('is_complete').defaultTo(false);
     table.text('shipping_carrier').nullable();
     table.text('tracking_no').nullable();
-    table.text('stripe_transaction_id').nullable();
+    table.text('transaction_id').nullable();
     table.integer('buyer_id').unsigned().references('id').inTable('account').onDelete('cascade');
     table.integer('product_id').unsigned().references('id').inTable('product').onDelete('cascade');
   });
