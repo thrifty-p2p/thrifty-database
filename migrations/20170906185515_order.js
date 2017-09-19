@@ -3,6 +3,9 @@ exports.up = (knex, Promise) => {
     table.increments('id').primary();
     table.timestamp('order_date').default(knex.fn.now());;
     table.boolean('is_complete').defaultTo(false);
+    table.text('shipping_carrier').nullable();
+    table.text('tracking_no').nullable();
+    table.text('stripe_transaction_id').nullable();
     table.integer('buyer_id').unsigned().references('id').inTable('account').onDelete('cascade');
     table.integer('product_id').unsigned().references('id').inTable('product').onDelete('cascade');
   });

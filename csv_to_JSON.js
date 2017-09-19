@@ -118,7 +118,10 @@ fs.readFile('./data_csv/order_table.csv', (error, data) => {
       const order = {
         is_complete: row[1],
         buyer_id: row[2],
-        product_id: row[3]
+        product_id: row[3],
+        shipping_carrier: null,
+        tracking_no: null,
+        stripe_transaction_id: `Thrifty_${Date.now()}`,
       }
       allOrders.push(order);
     }
