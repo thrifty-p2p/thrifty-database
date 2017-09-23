@@ -22,7 +22,7 @@ knex migrate:latest
 knex seed:run
 ```
 
-## Related Repositiries
+## Related Repositories 
 
 * [Server](https://github.com/thrifty-p2p/thrifty-server)
 * [React Native Client](https://github.com/thrifty-p2p/thrifty-client)
